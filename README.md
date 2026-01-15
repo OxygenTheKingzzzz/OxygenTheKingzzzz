@@ -1,7 +1,7 @@
 # Hi, I'm Thea Darasak 👋
 
 ## 🚀 About Me
-I'm an IT freshman passionate about **software development, cross-platform apps, UI/UX, and cybersecurity**.  
+I'm an IT sophomore passionate about **software development, cross-platform apps, UI/UX, and cybersecurity**.  
 I love building projects, experimenting with new tech, and constantly leveling up my coding skills.
 
 - 🎓 Freshman majoring in **Software Development**
