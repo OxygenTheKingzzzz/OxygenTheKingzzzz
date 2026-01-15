@@ -4,7 +4,7 @@
 I'm an IT sophomore passionate about **software development, cross-platform apps, UI/UX, and cybersecurity**.  
 I love building projects, experimenting with new tech, and constantly leveling up my coding skills.
 
-- 🎓 Freshman majoring in **Software Development**
+- 🎓 sophomore majoring in **Software Development**
 - 💻 Coding in **Python, C++, Java, HTML/CSS/JS**
 - 📱 Learning **mobile development** (Android now, iOS in future)
 
@@ -16,7 +16,7 @@ I love building projects, experimenting with new tech, and constantly leveling u
 - Python  
 - C++  
 - Java  
-- HTML / CSS / JavaScript  
+- HTML / CSS / JavaScript / React  
 
 ### **Tools & Environments**
 - VS Code  
