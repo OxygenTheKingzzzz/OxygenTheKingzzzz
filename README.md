@@ -1,16 +1,16 @@
-# Hi, I'm Thea Darasak 👋
+# Hi, I'm Thea Darasak 
 
-## 🚀 About Me
+## About Me
 I'm an IT sophomore passionate about **software development, cross-platform apps, UI/UX, and cybersecurity**.  
 I love building projects, experimenting with new tech, and constantly leveling up my coding skills.
 
-- 🎓 sophomore majoring in **Software Development**
-- 💻 Coding in **Python, C++, Java, HTML/CSS/JS**
-- 📱 Learning **mobile development** (Android now, iOS in future)
+-  sophomore majoring in **Software Development**
+-  Coding in **Python, C++, Java, HTML/CSS/JS**
+-  Learning **mobile development** (Android now, iOS in future)
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 ### **Languages**
 - Python  
@@ -32,21 +32,21 @@ I love building projects, experimenting with new tech, and constantly leveling u
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🔢 **Sudoku Scanner & Solver (Python + OpenCV)**
+### **Sudoku Scanner & Solver (Python + OpenCV)**
 - Scans Sudoku grids using OCR  
 - Converts them into a 2D list  
 - Uses logic-based solving  
 - Outputs styled terminal colors using ANSI  
 
-### 🤖 **AI & Data Experiments**
+###  **AI & Data Experiments**
 - Beginner ML models  
 - Python automation mini projects  
 
 ---
 
-## 🎯 Goals
+##  Goals
 - Build real cross-platform mobile apps  
 - Improve UI/UX design skills  
 - Learn iOS development (future MacBook)  
@@ -54,11 +54,11 @@ I love building projects, experimenting with new tech, and constantly leveling u
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 - GitHub: `stardarasak@gmail.com`
 - Email: `stardarasak@gmail.com`
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
+ **Thanks for visiting my profile!**  
 Feel free to star or follow if you like my projects.
