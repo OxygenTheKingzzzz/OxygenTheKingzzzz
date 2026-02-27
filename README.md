@@ -6,7 +6,6 @@ I love building projects, experimenting with new tech, and constantly leveling u
 
 -  sophomore majoring in **Software Development**
 -  Coding in **Python, C++, Java, HTML/CSS/JS**
--  Learning **mobile development** (Android now, iOS in future)
 
 ---
 
@@ -20,7 +19,7 @@ I love building projects, experimenting with new tech, and constantly leveling u
 
 ### **Tools & Environments**
 - VS Code  
-- Ubuntu / Windows  
+- Ubuntu / Windows 
 - Git & GitHub  
 - Notion  
 
@@ -33,12 +32,6 @@ I love building projects, experimenting with new tech, and constantly leveling u
 ---
 
 ##  Featured Projects
-
-### **Sudoku Scanner & Solver (Python + OpenCV)**
-- Scans Sudoku grids using OCR  
-- Converts them into a 2D list  
-- Uses logic-based solving  
-- Outputs styled terminal colors using ANSI  
 
 ###  **AI & Data Experiments**
 - Beginner ML models  
