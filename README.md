@@ -42,7 +42,7 @@ I love building projects, experimenting with new tech, and constantly leveling u
 ##  Goals
 - Build real cross-platform mobile apps  
 - Improve UI/UX design skills  
-- Learn iOS development (future MacBook)  
+- Learn iOS development
 - Land an internship in tech or finance  
 
 ---
